@@ -13,8 +13,6 @@ function App() {
       <Info />
       <Info />
       <Info />
-      <Info />
-      <Info />
     </div>
   );
 }
